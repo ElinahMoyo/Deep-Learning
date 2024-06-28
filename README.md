@@ -2,9 +2,11 @@
 
 In this project, i built a regression model using the Keras library to model  data about concrete compressive strength.
 
+The Dataset is about STRENGTH of different samples of CONCRETE based on the volumes of the different features/predictors that were used to make them.
+
 1. Concrete Data:
-the data can be found here : 
-https://cocl.us/concrete_data
+the data can be found here : https://cocl.us/concrete_data
+
 
 the predictors in the data of concrete strength include:
 
